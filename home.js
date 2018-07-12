@@ -1,4 +1,3 @@
-const token = 'NDAyNTgzNDk5ODg4MDAxMDQy.DT63SQ.QbiG8jVPyCFH3XN02e6PR_fszK4';
 const prefix = '!';
 const absPath = "./Documents/DiscordBot2/hroa/";
 
