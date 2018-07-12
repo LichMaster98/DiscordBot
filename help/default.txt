@@ -1,0 +1,3 @@
+**LichMaster Bot List of Commands**
+*General List*
+help
