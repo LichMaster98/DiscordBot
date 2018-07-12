@@ -1,0 +1,3 @@
+Information to go here...
+
+Invite Bot to Server: https://discordapp.com/oauth2/authorize?client_id=402583499888001042&scope=bot
