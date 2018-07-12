@@ -1,6 +1,6 @@
 const token = 'NDAyNTgzNDk5ODg4MDAxMDQy.DT63SQ.QbiG8jVPyCFH3XN02e6PR_fszK4';
 const prefix = '!';
-const absPath = "C:/Users/Jacob/Documents/DiscordBot2/hroa/";
+const absPath = "./Documents/DiscordBot2/hroa/";
 
 // Import the discord.js module
 const Discord = require('discord.js');
@@ -700,7 +700,7 @@ client.on('message', message => {
 
           break;
 
-        default: //Need to update for author on first line, account for more than 2000 characters
+        default:
           return;
           break;
       }
